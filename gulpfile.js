@@ -33,7 +33,6 @@ gulp.task('index-prep', ['clean-index'], function () {
             {
                 collapseWhitespace: true,
                 removeRedundantAttributes: true,
-                ignoreCustomComments: [/^!--\[if/],
                 removeComments: true
             }))
         .pipe($.rename('index.html'))
