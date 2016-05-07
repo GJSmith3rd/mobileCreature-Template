@@ -1,20 +1,20 @@
 {
-  "name": "javascript-calculator",
+  "name": "template",
   "version": "0.1.0",
-  "description": "FreeCodeCamp, Zipline Project, JavaScript Calculator.",
-  "author": "Gilbert Smith",
+  "description": "FreeCodeCamp, Zipline Project, template.",
+  "author": "Gilbert Joseph Smith III",
   "license": "MIT",
-  "homepage": "https://github.com/GJSmith3rd/FCC-Zipline-JavaScript-Calculator",
+  "homepage": "https://github.com/GJSmith3rd/template#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:GJSmith3rd/FCC-Zipline-JavaScript-Calculator.git"
+    "url": "https://github.com/GJSmith3rd/template.git"
   },
   "scripts": {
     "init": "npm install",
     "start": "app.js"
   },
   "bugs": {
-    "url": "https://github.com/GJSmith3rd/FCC-Zipline-JavaScript-Calculator/issues"
+    "url": "https://github.com/GJSmith3rd/template/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.12.3",
