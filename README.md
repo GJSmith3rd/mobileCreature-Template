@@ -1,8 +1,8 @@
-# [template](template) - hosted on CodePen
+# [template](template) - hosted on CodePen.io
 --------------------------------
 #### A FreeCodeCamp Project.
 
-[mobileCreature Web Design Studio](http://mobilecreature.github.io/) - hosted on GitHub
+[mobileCreature Web Design Studio](http://mobilecreature.github.io/) - hosted on GitHub.io
 --------------------------------
 A mobileCreature and Gilbert Smith project.
 
